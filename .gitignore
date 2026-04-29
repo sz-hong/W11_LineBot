@@ -1,0 +1,26 @@
+# 環境變數
+.env
+
+# 資料庫
+*.db
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# 虛擬環境
+.venv/
+venv/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
